@@ -1,7 +1,17 @@
 
+# Java compiled files
 *.class
+
+# Maven build output
+target/
+
+# IDE settings
 .vscode/
 .idea/
+
+# Operating system files
 .DS_Store
 Thumbs.db
+
+# Log files
 *.log
